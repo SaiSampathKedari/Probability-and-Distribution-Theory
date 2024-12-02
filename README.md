@@ -16,6 +16,8 @@ This repository contains my **lecture notes** and solved problems from *Casella-
 ## Purpose
 These notes and solutions reflect my attempt to solidify my mathematical skills and understanding. I aim to build a strong theoretical foundation in **Statistical Inference**, which will support my future work in **Machine Learning**, **AI**, and **Robotics** research.
 
+When I have the opportunity, I hope to document my notes and solutions in LaTeX for better clarity and organization.
+
 ---
 
 ### **About Me**
