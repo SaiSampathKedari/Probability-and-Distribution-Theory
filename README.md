@@ -3,7 +3,7 @@
 This repository contains my **lecture notes** and solved problems from *Casella-Berger: Statistical Inference (Chapters 1-5)*, focused on foundational concepts in **Probability Theory** and **Statistical Inference**. These topics are essential for **Machine Learning**, **AI**, and **Robotics**.
 
 ## Key Topics Covered
-1. **Probability Theory**: Set theory, random variables, distributions, conditional probability
+1. **Probability Theory**: Set theory, cardinality & countability, probability spaces, Borel sets, and Lebesgue measure.
 2. **Transformations and Expectations**: Distributions of functions, moment-generating functions.
 3. **Common Families of Distributions**: Discrete and continuous distributions, exponential families, inequalities.
 4. **Multiple Random Variables**: Joint and marginal distributions, conditional distributions, mixture models.
